@@ -2,7 +2,7 @@
 
 ![Banner](./banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?
+
 </div>
 
 ---
