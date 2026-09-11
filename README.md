@@ -1,6 +1,6 @@
 <div align="center">
 
-![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20From%20Scratch&fontSize=50&fontColor=fff&animation=fadeIn&desc=No%20Libraries.%20No%20Shortcuts.%20No%20.fit()%20Until%20I%20Earn%20It.&descAlignY=65)
+![Banner](./banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Building+the+engine+before+the+car+🚗;Math+first.+Code+second.+Libraries+last.;Every+model%2C+derived+by+hand.+;⭐+Star+this+repo+if+you're+on+the+grind+too)](https://git.io/typing-svg)
 
