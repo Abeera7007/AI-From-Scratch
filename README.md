@@ -7,7 +7,7 @@
 
 ---
 
-## ✨🧠✨ The Philosophy
+## The Philosophy
 
 Most people learn AI backwards: import a library, call three functions, get a number, call themselves an ML engineer. I'm doing the opposite. ⭐
 
@@ -21,7 +21,7 @@ Most people learn AI backwards: import a library, call three functions, get a nu
 
 ---
 
-## 🗺️✨ The Roadmap
+## 🗺️ The Roadmap
 
 | Stage | What | Status |
 |---|---|---|
