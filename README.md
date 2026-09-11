@@ -33,7 +33,7 @@ Most people learn AI backwards: import a library, call three functions, get a nu
 | 06 | Deep learning architectures (CNN, RNN, Transformers) | 🔲 |
 | 07 | Rebuild everything with real libraries, compare | 🔲 |
 
-*(Full roadmap breakdown: [`ROADMAP.md`](./ROADMAP.md))*
+
 
 ---
 
