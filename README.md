@@ -82,7 +82,7 @@ No AI wrote these models for me. I wrote the AI.
 
 ### ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EmanMaqsood190/AI-From-Scratch&type=Date)](https://star-history.com/#EmanMaqsood190/AI-From-Scratch&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=YOUR-USERNAME/AI-From-Scratch&type=Date)](https://star-history.com/#YOUR-USERNAME/AI-From-Scratch&Date)
 
 **If you're also doing the from-scratch grind, fork it and race me.** ⭐🧠⭐
 
