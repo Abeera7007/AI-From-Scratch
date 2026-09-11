@@ -64,7 +64,12 @@ Each folder = `notes.md` (concept + math) + code (raw Python first, library vers
 
 ## ⚙️ Stack
 
-<a href="https://github.com"><img src="https://readmecodegen.com" alt="Python-NumPy-PyTorch-Scikit-Learn" /></a>
+<p align="left">
+  <img src="https://readmecodegen.com" alt="Python" height="40" />
+  <img src="https://readmecodegen.com" alt="NumPy" height="40" />
+  <img src="https://readmecodegen.com" alt="PyTorch" height="40" />
+  <img src="https://readmecodegen.com" alt="Scikit-Learn" height="40" />
+</p>
 
 *(PyTorch/scikit-learn badges = the destination, not the starting point)*
 
