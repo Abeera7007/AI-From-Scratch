@@ -25,14 +25,14 @@ No proofs, no abstract theory, no "why does math work this way" rabbit holes. Ju
 
 ## How Each Class Will Work
 
-1. **Plain-English intuition first** — using a relatable example (a house, a decision, something normal)
+1. **Plain-English intuition first** using a relatable example (a house, a decision, something normal)
 2. **Then the math**, showing that the math was just a formal way of writing down what you already understood
 3. **Then the code**, built from scratch, no libraries
 4. **A short recap** at the end tying it all together
 
 ## What's Next
 
-Head to `Class 1` to meet your first real building block: **the neuron** — and see that it's really just your own decision-making process, written down as a formula.
+Head to `Class 1` to meet your first real building block: **the neuron** and see that it's really just your own decision-making process, written down as a formula.
 
 ---
 
