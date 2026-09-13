@@ -1,4 +1,4 @@
-# 📘 Class 0 — Why We're Doing This the Hard Way
+# 📘 Class 0 | Why We're Doing This the Hard Way
 
 ## Let's be honest first
 
