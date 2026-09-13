@@ -1,18 +1,22 @@
-# 📘 Class 0 | Why We're Doing This the Hard Way
+# 📘 Class 0 — Why We're Doing This the Hard Way
 
 ## Let's be honest first
 
-Math has a reputation problem. Most people hear "linear algebra" or "derivatives" and immediately think: *boring, pointless, why do I need this.* Fair enough a LOT of math gets taught disconnected from anything real, so it feels like memorizing symbols for no reason.
+Math has a reputation problem. Most people hear "linear algebra" or "derivatives" and immediately think: *boring, pointless, why do I need this.* Fair enough, a LOT of math gets taught disconnected from anything real, so it feels like memorizing symbols for no reason.
 
-Here's the twist though: **you can't actually learn AI without it.** Not because some professor said so because AI models are *literally made of math*. There's no version of "understanding how a neural network thinks" that skips the math part. The math isn't a boring gate you pass through before the "real" AI content starts the math **IS** the AI content.
+![Most people's reaction to math](./images/scared-of-math.png)
+
+Here's the twist though: **you can't actually learn AI without it.** Not because some professor said so, because AI models are *literally made of math*. There's no version of "understanding how a neural network thinks" that skips the math part. The math isn't a boring gate you pass through before the "real" AI content starts the math **IS** the AI content.
 
 So instead of running from it, this repo does the opposite: **learn AI completely from scratch, no libraries, no shortcuts** meaning we write the math and the code ourselves, by hand, before ever touching a tool like scikit-learn or PyTorch. Once you understand what's happening underneath, using those libraries later will feel like cheating (in a good way) instead of feeling like magic you don't trust.
 
+![Building it ourselves, brick by brick](./images/building-from-scratch.png)
+
 ## The Rule for This Whole Repo
 
-> If I can't build it myself with plain Python and basic math, I don't actually understand it ,I just know how to call a function.
+> If I can't build it myself with plain Python and basic math, I don't actually understand it I just know how to call a function.
 
-That's it. That's the whole philosophy. Libraries come *later*, as a reward for doing it the hard way firstnot as a shortcut around it.
+That's it. That's the whole philosophy. Libraries come *later*, as a reward for doing it the hard way first not as a shortcut around it.
 
 ## What "a little math" Actually Means Here
 
@@ -32,7 +36,7 @@ No proofs, no abstract theory, no "why does math work this way" rabbit holes. Ju
 
 ## What's Next
 
-Head to `Class 1` to meet your first real building block: **the neuron** and see that it's really just your own decision-making process, written down as a formula.
+Head to `Class 1` to meet your first real building block: **the neuron** — and see that it's really just your own decision-making process, written down as a formula.
 
 ---
 
