@@ -1,4 +1,4 @@
-# 📘 Class 1 — Neurons, Weights, Bias & The Math Behind Them
+# 📘 Class 1 | Neurons, Weights, Bias & The Math Behind Them
 
 *"You've been running a neural network in your head your whole life. You just didn't know the math for it. Let's fix that."*
 
